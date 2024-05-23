@@ -1,0 +1,1 @@
+print("saya kelas 2A ")
